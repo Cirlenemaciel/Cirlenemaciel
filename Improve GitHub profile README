@@ -33,19 +33,23 @@ I'm currently strengthening my Computer Science fundamentals while developing ha
 
 ## 🚀 Featured Projects
 
-### Task Management API
+### 📌 Task Management API
+
 REST API for task management built with Python and FastAPI.
 
-**Highlights:** REST API • CRUD • FastAPI • Pydantic • Pytest
+**Highlights:** FastAPI • REST API • CRUD • Pydantic • Pytest
 
-🔗 github.com/Cirlenemaciel/task-management-api
+🔗 [View Project](https://github.com/Cirlenemaciel/task-management-api)
 
-### Inventory Management System
+---
+
+### 📦 Inventory Management System
+
 Inventory management system built with Python and SQLite with automated testing and continuous integration.
 
 **Highlights:** Python • SQLite • SQL • CRUD • Pytest • GitHub Actions
 
-🔗 github.com/Cirlenemaciel/inventory-management-system
+🔗 [View Project](https://github.com/Cirlenemaciel/inventory-management-system)
 
 ## 📚 Currently Learning
 
@@ -60,3 +64,7 @@ Inventory management system built with Python and SQLite with automated testing 
 ## 🎯 Current Focus
 
 Building software engineering projects and improving my skills in Python, JavaScript, backend development, automation and AI.
+
+## 📫 Connect with Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/cirlene-s-maciel-402745346/)
